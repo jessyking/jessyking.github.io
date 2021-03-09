@@ -549,7 +549,7 @@ main.container {
 
 @media screen and (min-width: 700px) {
 	.wrap {
-	width:70%; /** 修改正文的宽度，原先为 700px */
+	width:66%; /** 修改正文的宽度，原先为 700px */
 	margin:0 auto
     }
     
