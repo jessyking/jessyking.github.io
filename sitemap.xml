@@ -15,6 +15,27 @@
     
   </url>
   
+  <url>
+    <loc>https://doreality.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-03-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://doreality.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-03-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://doreality.github.io/about/index.html</loc>
+    
+    <lastmod>2021-03-09</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>https://doreality.github.io/</loc>
@@ -46,5 +67,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://doreality.github.io/categories/Blog/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
